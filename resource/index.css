@@ -1,0 +1,64 @@
+* {
+
+}
+nav {
+    top: 0;
+    width: 100%;
+    position: fixed; 
+    background-color: white; 
+}
+nav li {
+    display: inline-block;
+    padding: 0 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+a.blue {
+    color: blue;
+}
+.Signin {
+    position: fixed;
+    right: 80px;
+}
+.Resister {
+    position: fixed;
+    right: 10px;
+}
+body {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    margin-top: 75px;
+    text-align: center;
+}
+.header h1 {
+    font-size: 30px;
+}
+.follow {
+    color: black;
+    background-color: white;
+    position: static;
+}
+.follow a {
+    color: black;
+    text-decoration: none;
+}
+.follow h2 {
+    margin: 20px;
+}
+.follow h5 {
+    position: static;
+    margin-top: -23px;
+    left: 60px;
+}
+.follow img{
+    position: static;
+    width: 3%;
+    margin-top: -20px;
+    left: 30px;
+}
+
